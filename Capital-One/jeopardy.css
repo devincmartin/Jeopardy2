@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("https://www.liveabout.com/thmb/wmYHuJe731PyPmqQ7Ca2pGAVyvs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/jeop_logo_large-58bacf375f9b58af5cb69e2f.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: black;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: black;
+  color: white;
+}
+
+.button{
+  background-color: black; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  text-align: center;
+  display: block;
+  width: 40%;
+}
+
+h1{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  display: block;
+  width: 40%;
+}
+
+.center-font{
+  font-size: 20px;
+  color: blue;
+}
+
+center{
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+img{
+  float: right;
+  margin: -70px;
+}
